@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/mcp-mirror-agentsworkingtogether-mcp-sleep)
+
 # Sleep MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@AgentsWorkingTogether/mcp-sleep)](https://smithery.ai/server/@AgentsWorkingTogether/mcp-sleep)
